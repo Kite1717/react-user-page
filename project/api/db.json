@@ -1,0 +1,23 @@
+{
+    "users" : [
+        {
+          "id" : "unique-1",
+          "fullName" : "Mustafa Fırat YILMAZ",
+          "department" : "IT",
+          "salary" : 5000
+        },
+        {
+        "id" : "unique-2",
+         "fullName" : "Emre YILMAZ",
+         "department" : "IT",
+         "salary" : 10000
+        },
+        {
+         "id" : "unique-3",
+         "fullName" : "Murat YILMAZ",
+         "department" : "",
+         "salary" : 8000
+        }
+ 
+     ]
+}
